@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Sfondo -->
+    <item android:width="36dp" android:height="36dp">
+        <shape android:shape="oval">
+            <solid android:color="#F0F0F0"/> <!-- Colore dello sfondo -->
+        </shape>
+    </item>
+
+    <!-- Cornice -->
+    <item android:bottom="0.75dp" android:left="0.75dp" android:right="0.75dp" android:top="0.75dp">
+        <shape android:shape="oval">
+            <stroke android:color="#0000FF" android:width="0.75dp"/> <!-- Colore blu per la cornice -->
+        </shape>
+    </item>
+
+    <!-- Icona -->
+</layer-list>

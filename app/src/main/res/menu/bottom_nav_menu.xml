@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/map"
+        android:title="@string/title_home"
+        android:color="@color/coloreScritte"/>
+
+    <item
+        android:id="@+id/navigation_vicinanze"
+        android:icon="@drawable/vicinanza_dash_icon"
+        android:title="@string/title_vicinanze"
+        android:color="@color/coloreScritte"/>
+
+    <item
+        android:id="@+id/navigation_classifica"
+        android:icon="@drawable/classifica_dash_icon"
+        android:title="@string/title_classifica"
+        android:color="@color/coloreScritte"/>
+
+    <item
+        android:id="@+id/navigation_profilo"
+        android:icon="@drawable/profilo_dash_icon"
+        android:title="@string/title_profilo"
+        android:color="@color/coloreScritte"/>
+
+</menu>

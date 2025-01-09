@@ -1,0 +1,146 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_oggetto_vicinanza">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/coloreScritte"
+        tools:context=".ImageFragment">
+
+
+        <ImageView
+            android:id="@+id/oggettoImage"
+            android:layout_width="141dp"
+            android:layout_height="130dp"
+            android:layout_marginTop="92dp"
+            android:src="@drawable/profile_pic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/Name"
+            android:layout_width="199dp"
+            android:layout_height="44dp"
+            android:gravity="center"
+            android:text="Name"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/Type"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/oggettoImage"
+            app:layout_constraintVertical_bias="0.339" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="92dp"
+            android:layout_marginTop="36dp"
+            android:text="Tipo:"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Name" />
+
+        <TextView
+            android:id="@+id/Type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Tipo"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textView2"
+            app:layout_constraintStart_toEndOf="@+id/textView2" />
+
+        <!-- XP -->
+
+        <TextView
+            android:id="@+id/life_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="92dp"
+            android:layout_marginTop="12dp"
+            android:text="Livello:"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <TextView
+            android:id="@+id/Level"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Livello"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/life_textView"
+            app:layout_constraintStart_toEndOf="@+id/life_textView" />
+
+        <!-- Bottone Indietro -->
+
+        <Button
+            android:id="@+id/indietroVicinanzeCentro"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Indietro"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.489"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/life_textView"
+            app:layout_constraintWidth_percent="0.28" />
+
+        <Button
+            android:id="@+id/indietroVicinanze"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Indietro"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.263"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/life_textView"
+            app:layout_constraintWidth_percent="0.28" />
+
+        <Button
+            android:id="@+id/attivaButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Attiva"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.209"
+            app:layout_constraintStart_toEndOf="@+id/indietroVicinanze"
+            app:layout_constraintTop_toBottomOf="@+id/life_textView"
+            app:layout_constraintWidth_percent="0.28" />
+
+        <FrameLayout
+            android:id="@+id/frameLayoutOverlay"
+            android:layout_width="437dp"
+            android:layout_height="759dp"
+            android:clickable="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <!-- Contenuto del FrameLayout -->
+
+        </FrameLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
