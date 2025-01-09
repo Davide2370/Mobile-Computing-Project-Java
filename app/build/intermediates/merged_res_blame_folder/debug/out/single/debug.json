@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_profile_menu.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\profile_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_aggiungi.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\aggiungi.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_riga_vicinanze.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\riga_vicinanze.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_map.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_vicinanza_dash_icon.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\vicinanza_dash_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_username_dialog.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\username_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_profile_pic.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_classifica_dash_icon.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\classifica_dash_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_map_menu.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\map_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_profilo_dash_icon.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\profilo_dash_icon.xml"
+    },
+    {
+        "merged": "com.example.progetto_java.app-merged_res-51:/layout_fragment_oggetto_vicinanza.xml.flat",
+        "source": "com.example.progetto_java.app-main-53:/layout/fragment_oggetto_vicinanza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_armatura.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_armatura.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_star.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_mio_artefatto.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_mio_artefatto.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_arma_vuota.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_arma_vuota.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_caramella.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_caramella.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_armatura.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_armatura.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_modifica.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_modifica.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_favicon.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\favicon.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_map_icon.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\map_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_telescope.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\telescope.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_classifica.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_classifica.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_user_marker.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\user_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_oggetto_vicinanza.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_oggetto_vicinanza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\anim_transation1.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\anim\\transation1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_riga_classifica.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\riga_classifica.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_checkmark_circle.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\checkmark_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_armatura_vuota.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_armatura_vuota.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_utente.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_utente.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_close_circle.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\close_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_profilo.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_profilo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mostro.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mostro.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\raw_map_style.json.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_oggetto_vicinanze_marker.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_oggetto_vicinanze_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_classifica_utente.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_classifica_utente.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_x_circle_icon.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\x_circle_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_spada.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_spada.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_amuleto_vuota.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_amuleto_vuota.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_caramella.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_caramella.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_amuleto.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_amuleto.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_utente_vicinanze_marker.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_utente_vicinanze_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_mostro.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_mostro.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_amuleto.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_amuleto.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_mappa_arma.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_mappa_arma.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_prova.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\prova.png"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\layout_fragment_vicinanze.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_vicinanze.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-merged_res-51:\\drawable_icona_matita.png.flat",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\drawable\\icona_matita.png"
+    }
+]

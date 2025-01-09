@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\riga_classifica.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\riga_classifica.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_vicinanze.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_vicinanze.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_oggetto_vicinanze_marker.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_oggetto_vicinanze_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_classifica_utente.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_classifica_utente.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_profilo.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_profilo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_utente_vicinanze_marker.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_utente_vicinanze_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_mio_artefatto.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_mio_artefatto.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\riga_vicinanze.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\riga_vicinanze.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\username_dialog.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\username_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_oggetto_vicinanza.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_oggetto_vicinanza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.progetto_java.app-mergeDebugResources-50:/layout/fragment_oggetto_vicinanza.xml",
+        "source": "com.example.progetto_java.app-main-53:/layout/fragment_oggetto_vicinanza.xml"
+    },
+    {
+        "merged": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-mergeDebugResources-50:\\layout\\fragment_classifica.xml",
+        "source": "C:\\Users\\dpoli\\.gradle\\daemon\\8.0\\com.example.progetto_java.app-main-53:\\layout\\fragment_classifica.xml"
+    }
+]
